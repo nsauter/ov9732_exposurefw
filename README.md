@@ -1,4 +1,4 @@
-# OV9732 Better Belichtungs Firmware [Deutsch]
+# OV9732 Belichtungs Firmware [Deutsch]
 
 Die Software ist nicht von mir und ich halte keine Rechte daran. Dieses Repo dient nur als Download Option für die OV9732 Firmware die die Belichtung anpasst für Anwendungen wie Autodarts. Die Firmware kann nur bei Kameras mit HBVCAM W2027 V22 Chip genutzt werden. Welchen Chip eure Kamera nutzt ist sichtbar unterhalb der Linse aufgedruckt. Siehe Beispielbild.
 
